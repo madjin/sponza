@@ -16,30 +16,12 @@
       }
     },
     {
-      "type": "application/wind",
-      "content": {
-        "windType": "directional",
-        "direction": [-1, 0, 0],
-        "windForce": 0.5,
-        "noiseScale": 1,
-        "windFrequency": 1
-      }
-    },
-    {
       "position": [
         0,
         0,
         0
       ],
-      "start_url": "glTF/Sponza.glb"
-    },
-    {
-      "position": [
-        0,
-        0,
-        0
-      ],
-      "start_url": "https://webaverse.github.io/skybox/"
+      "start_url": "https://madjin.github.io/sponza/glTF/Sponza.glb"
     },
     {
       "position": [
